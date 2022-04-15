@@ -1,0 +1,6 @@
+﻿<Properties>
+  <WatchEntry0 value="strDepartMonthFirst" />
+  <WatchEntry1 value="strDepartYearFirst" />
+  <WatchEntry2 value="strDepartMonth" />
+  <WatchEntry3 value="strDepartYear" />
+</Properties>
